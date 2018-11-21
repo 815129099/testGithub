@@ -1,5 +1,10 @@
 aaa
+<<<<<<< HEAD
 
 11111111
 
 2222222ssssssssssssss
+=======
+bbb
+>>>>>>> parent of 8031571... 111
+ggggggggggggggggggg
